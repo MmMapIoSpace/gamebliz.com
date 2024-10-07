@@ -1,0 +1,36 @@
+[
+  {
+    "Name": "Electronics",
+    "EncodedName": "electronics",
+    "Schemas": [
+      {
+        "Key": "brand",
+        "Type": "string",
+        "Options": [ "Apple", "Samsung", "Sony" ]
+      },
+      {
+        "Key": "warranty",
+        "Type": "boolean"
+      }
+    ]
+  },
+  {
+    "Name": "Books",
+    "EncodedName": "books",
+    "Schemas": [
+      {
+        "Key": "author",
+        "Type": "string"
+      },
+      {
+        "Key": "publicationYear",
+        "Type": "integer"
+      },
+      {
+        "Key": "genre",
+        "Type": "string",
+        "Options": [ "Fiction", "Non-fiction", "Sci-Fi", "Biography" ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "Id": 1,
+    "Timestamp": "2024-10-07T13:09:00.057109Z",
+    "Name": "Product 1",
+    "Price": 52.5,
+    "Picture": "https://picsum.photos/200/300?random=1"
+  },
+  {
+    "Id": 2,
+    "Timestamp": "2024-10-07T13:14:00.057109Z",
+    "Name": "Product 2",
+    "Price": 55.0,
+    "Picture": "https://picsum.photos/200/300?random=2"
+  },
+  {
+    "Id": 3,
+    "Timestamp": "2024-10-07T13:19:00.057109Z",
+    "Name": "Product 3",
+    "Price": 57.5,
+    "Picture": "https://picsum.photos/200/300?random=3"
+  },
+  {
+    "Id": 4,
+    "Timestamp": "2024-10-07T13:24:00.057109Z",
+    "Name": "Product 4",
+    "Price": 60.0,
+    "Picture": "https://picsum.photos/200/300?random=4"
+  },
+  {
+    "Id": 5,
+    "Timestamp": "2024-10-07T13:29:00.057109Z",
+    "Name": "Product 5",
+    "Price": 62.5,
+    "Picture": "https://picsum.photos/200/300?random=5"
+  },
+  {
+    "Id": 6,
+    "Timestamp": "2024-10-07T13:34:00.057109Z",
+    "Name": "Product 6",
+    "Price": 65.0,
+    "Picture": "https://picsum.photos/200/300?random=6"
+  },
+  {
+    "Id": 7,
+    "Timestamp": "2024-10-07T13:39:00.057109Z",
+    "Name": "Product 7",
+    "Price": 67.5,
+    "Picture": "https://picsum.photos/200/300?random=7"
+  },
+  {
+    "Id": 8,
+    "Timestamp": "2024-10-07T13:44:00.057109Z",
+    "Name": "Product 8",
+    "Price": 70.0,
+    "Picture": "https://picsum.photos/200/300?random=8"
+  },
+  {
+    "Id": 9,
+    "Timestamp": "2024-10-07T13:49:00.057109Z",
+    "Name": "Product 9",
+    "Price": 72.5,
+    "Picture": "https://picsum.photos/200/300?random=9"
+  },
+  {
+    "Id": 10,
+    "Timestamp": "2024-10-07T13:54:00.057109Z",
+    "Name": "Product 10",
+    "Price": 75.0,
+    "Picture": "https://picsum.photos/200/300?random=10"
+  },
+  {
+    "Id": 11,
+    "Timestamp": "2024-10-07T13:59:00.057109Z",
+    "Name": "Product 11",
+    "Price": 77.5,
+    "Picture": "https://picsum.photos/200/300?random=11"
+  },
+  {
+    "Id": 12,
+    "Timestamp": "2024-10-07T14:04:00.057109Z",
+    "Name": "Product 12",
+    "Price": 80.0,
+    "Picture": "https://picsum.photos/200/300?random=12"
+  },
+  {
+    "Id": 13,
+    "Timestamp": "2024-10-07T14:09:00.057109Z",
+    "Name": "Product 13",
+    "Price": 82.5,
+    "Picture": "https://picsum.photos/200/300?random=13"
+  },
+  {
+    "Id": 14,
+    "Timestamp": "2024-10-07T14:14:00.057109Z",
+    "Name": "Product 14",
+    "Price": 85.0,
+    "Picture": "https://picsum.photos/200/300?random=14"
+  },
+  {
+    "Id": 15,
+    "Timestamp": "2024-10-07T14:19:00.057109Z",
+    "Name": "Product 15",
+    "Price": 87.5,
+    "Picture": "https://picsum.photos/200/300?random=15"
+  },
+  {
+    "Id": 16,
+    "Timestamp": "2024-10-07T14:24:00.057109Z",
+    "Name": "Product 16",
+    "Price": 90.0,
+    "Picture": "https://picsum.photos/200/300?random=16"
+  },
+  {
+    "Id": 17,
+    "Timestamp": "2024-10-07T14:29:00.057109Z",
+    "Name": "Product 17",
+    "Price": 92.5,
+    "Picture": "https://picsum.photos/200/300?random=17"
+  },
+  {
+    "Id": 18,
+    "Timestamp": "2024-10-07T14:34:00.057109Z",
+    "Name": "Product 18",
+    "Price": 95.0,
+    "Picture": "https://picsum.photos/200/300?random=18"
+  },
+  {
+    "Id": 19,
+    "Timestamp": "2024-10-07T14:39:00.057109Z",
+    "Name": "Product 19",
+    "Price": 97.5,
+    "Picture": "https://picsum.photos/200/300?random=19"
+  },
+  {
+    "Id": 20,
+    "Timestamp": "2024-10-07T14:44:00.057109Z",
+    "Name": "Product 20",
+    "Price": 100.0,
+    "Picture": "https://picsum.photos/200/300?random=20"
+  },
+  {
+    "Id": 21,
+    "Timestamp": "2024-10-07T14:49:00.057109Z",
+    "Name": "Product 21",
+    "Price": 102.5,
+    "Picture": "https://picsum.photos/200/300?random=21"
+  },
+  {
+    "Id": 22,
+    "Timestamp": "2024-10-07T14:54:00.057109Z",
+    "Name": "Product 22",
+    "Price": 105.0,
+    "Picture": "https://picsum.photos/200/300?random=22"
+  },
+  {
+    "Id": 23,
+    "Timestamp": "2024-10-07T14:59:00.057109Z",
+    "Name": "Product 23",
+    "Price": 107.5,
+    "Picture": "https://picsum.photos/200/300?random=23"
+  },
+  {
+    "Id": 24,
+    "Timestamp": "2024-10-07T15:04:00.057109Z",
+    "Name": "Product 24",
+    "Price": 110.0,
+    "Picture": "https://picsum.photos/200/300?random=24"
+  },
+  {
+    "Id": 25,
+    "Timestamp": "2024-10-07T15:09:00.057109Z",
+    "Name": "Product 25",
+    "Price": 112.5,
+    "Picture": "https://picsum.photos/200/300?random=25"
+  },
+  {
+    "Id": 26,
+    "Timestamp": "2024-10-07T15:14:00.057109Z",
+    "Name": "Product 26",
+    "Price": 115.0,
+    "Picture": "https://picsum.photos/200/300?random=26"
+  },
+  {
+    "Id": 27,
+    "Timestamp": "2024-10-07T15:19:00.057109Z",
+    "Name": "Product 27",
+    "Price": 117.5,
+    "Picture": "https://picsum.photos/200/300?random=27"
+  },
+  {
+    "Id": 28,
+    "Timestamp": "2024-10-07T15:24:00.057109Z",
+    "Name": "Product 28",
+    "Price": 120.0,
+    "Picture": "https://picsum.photos/200/300?random=28"
+  },
+  {
+    "Id": 29,
+    "Timestamp": "2024-10-07T15:29:00.057109Z",
+    "Name": "Product 29",
+    "Price": 122.5,
+    "Picture": "https://picsum.photos/200/300?random=29"
+  },
+  {
+    "Id": 30,
+    "Timestamp": "2024-10-07T15:34:00.057109Z",
+    "Name": "Product 30",
+    "Price": 125.0,
+    "Picture": "https://picsum.photos/200/300?random=30"
+  },
+  {
+    "Id": 31,
+    "Timestamp": "2024-10-07T15:39:00.057109Z",
+    "Name": "Product 31",
+    "Price": 127.5,
+    "Picture": "https://picsum.photos/200/300?random=31"
+  },
+  {
+    "Id": 32,
+    "Timestamp": "2024-10-07T15:44:00.057109Z",
+    "Name": "Product 32",
+    "Price": 130.0,
+    "Picture": "https://picsum.photos/200/300?random=32"
+  },
+  {
+    "Id": 33,
+    "Timestamp": "2024-10-07T15:49:00.057109Z",
+    "Name": "Product 33",
+    "Price": 132.5,
+    "Picture": "https://picsum.photos/200/300?random=33"
+  },
+  {
+    "Id": 34,
+    "Timestamp": "2024-10-07T15:54:00.057109Z",
+    "Name": "Product 34",
+    "Price": 135.0,
+    "Picture": "https://picsum.photos/200/300?random=34"
+  },
+  {
+    "Id": 35,
+    "Timestamp": "2024-10-07T15:59:00.057109Z",
+    "Name": "Product 35",
+    "Price": 137.5,
+    "Picture": "https://picsum.photos/200/300?random=35"
+  },
+  {
+    "Id": 36,
+    "Timestamp": "2024-10-07T16:04:00.057109Z",
+    "Name": "Product 36",
+    "Price": 140.0,
+    "Picture": "https://picsum.photos/200/300?random=36"
+  },
+  {
+    "Id": 37,
+    "Timestamp": "2024-10-07T16:09:00.057109Z",
+    "Name": "Product 37",
+    "Price": 142.5,
+    "Picture": "https://picsum.photos/200/300?random=37"
+  },
+  {
+    "Id": 38,
+    "Timestamp": "2024-10-07T16:14:00.057109Z",
+    "Name": "Product 38",
+    "Price": 145.0,
+    "Picture": "https://picsum.photos/200/300?random=38"
+  },
+  {
+    "Id": 39,
+    "Timestamp": "2024-10-07T16:19:00.057109Z",
+    "Name": "Product 39",
+    "Price": 147.5,
+    "Picture": "https://picsum.photos/200/300?random=39"
+  },
+  {
+    "Id": 40,
+    "Timestamp": "2024-10-07T16:24:00.057109Z",
+    "Name": "Product 40",
+    "Price": 150.0,
+    "Picture": "https://picsum.photos/200/300?random=40"
+  }
+]
